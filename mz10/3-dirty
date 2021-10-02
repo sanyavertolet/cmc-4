@@ -1,0 +1,20 @@
+S = aXPQ        |
+P = YXP | ε     |
+Q = UVQ | ε     |
+aY = aa         |
+aU = a0         |
+0U = 00         |
+0X = 0b         |
+bX = bb         |
+bV = b1         |
+1V = 11         |
+XY = YX         |
+UY = YU         |
+VY = YV         |
+XU = UX         |
+VU = UV         |
+VX = XV         |
+=================
+
+a^n 0^m b^n 1^m
+
